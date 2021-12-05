@@ -41,6 +41,8 @@ This script generates a collection of NFTs from a photoshop project.
    ...
  ...
  
+ ![example](./images/project_structure_example.png)
+ 
  Make sure each item in a folder has a unique name.
  Feel free to contribute this script.
  Enjoy!
